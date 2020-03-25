@@ -3788,12 +3788,9 @@ input, select, textarea {
 
 	.other
 	{
-		padding-top: 0%;
-		padding-bottom: 0%;
-		padding-left: 0%;
-		padding-right:0% ;
-		width:100px;
-		height:100px;
+		
+		width:100%;
+		height:auto;
 
 	}
 	
