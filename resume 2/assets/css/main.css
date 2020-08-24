@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.text {
+	color: #39c29d;
+}
+
 ol, ul {
 	list-style: none;
 }
